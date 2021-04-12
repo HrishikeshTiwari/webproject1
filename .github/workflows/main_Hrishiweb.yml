@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'Hrishiweb'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_b9a7a4c3c49243cfa8dc68b33dcee609 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_a27cd5a6272540c7b5069f6ffec7ebed }}
         package: .
